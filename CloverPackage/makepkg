@@ -70,7 +70,6 @@ rm -f  revision
 # Workspace = ~/Desktop
 
 cp ~/src/edk2/Clover/CloverPackage/sym/Clover_${version}_r${revision}.zip cd ~/Desktop/
-cp ~/src/edk2/Clover/CloverPackage/sym/Clover_${version}_r${revision}.pkg cd ~/Desktop/
 
 # Finish building installer.
 
